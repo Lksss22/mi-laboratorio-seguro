@@ -1,12 +1,4 @@
-# mi-laboratorio-seguro
-hardening-vm-lucas/
-├─ README.md
-├─ Reporte_VM_Hardening_Completo_Lucas.pdf
-└─ evidencias/
-   ├─ usuario_estandar.jpg
-   ├─ smb1_desactivado.jpg
-   ├─ red_nat_virtualbox.jpg
-   └─ snapshot_hardening_inicial.jpg
+
    # Hardening inicial de una Máquina Virtual
 
 ## Descripción
